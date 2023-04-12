@@ -14,3 +14,4 @@ export { Fuse } from './Fuse';
 export { Telos } from './Telos';
 export { Glmr } from './Glmr';
 export { Moonbase } from './Moonbase';
+export { Mumbai } from './mumbai';
